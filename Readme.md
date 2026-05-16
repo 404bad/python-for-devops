@@ -95,3 +95,17 @@ This is useful in server monitoring.
 
 Tips: while learning python, dont just solve coding problems instead think what real task can i sutomate
 
+
+# git ref
+
+- to create a pr with gh cli ( gh pr create --base main --head loops --title "Add loops implementation" --body "Implemented loops with 2 commits" )
+
+- open pr in browser :  gh pr view --web
+
+- to merge
+
+    - gh pr list
+    - gh pr merge loops
+- git checkou main
+- git pull origin main
+
