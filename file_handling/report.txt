@@ -1,0 +1,2 @@
+CPU Usage: 70%
+Memory Usage: 60%
